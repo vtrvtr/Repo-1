@@ -1,0 +1,23 @@
+.parallax-image {
+    height: 100px;
+    padding: 160px 0 0 0;
+    background-size: cover;
+}
+
+.soccer-ball-img {
+    background:url("static/image.jpg") 50% no-repeat fixed;
+}
+
+.url-img {
+    background:url("static/image.jpg") 50% no-repeat fixed;
+}
+
+.color-img {
+    background:url("static/image.jpg") 50% no-repeat fixed;
+}
+
+.content {
+    height: 200px;
+    border-top: solid red 4px;
+    border-bottom: dotted green 4px;
+}
